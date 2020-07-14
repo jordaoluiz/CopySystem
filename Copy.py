@@ -8,7 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 
 logging.disable(level=(logging.DEBUG))
-API = IQ_Option('sheiktraderofc@gmail.com', 'Luiz@122')
+API = IQ_Option('mail@mail.com', 'password')
 
 def Analisys():
     URL = 'https://br.investing.com/technical/technical-summary'
